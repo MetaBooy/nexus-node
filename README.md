@@ -1,4 +1,4 @@
-## nexus node guide
+## Nexus node guide
 
 
 # 📦 Step 1: System Update & Install curl
