@@ -1,10 +1,21 @@
-
+nexus node guide
 
 # 📦 Step 1: System Update & Install curl
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl -y
 ```
+# step 2 : install screen 
+```
+sudo apt update
+sudo apt install screen -y
+```
+# step 3 : create screen 
+```
+screen -S nexus-node
+```
+
+
 # ⚙️ Step 2: Install Nexus CLI
 ```
 curl https://cli.nexus.xyz/ | sh
